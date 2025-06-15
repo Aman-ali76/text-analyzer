@@ -34,7 +34,7 @@ cd text-file-analyzer
 ### 2. Install Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit
 ```
 
 ### 3. Run the App
