@@ -72,17 +72,14 @@ Characters: 155
 
 **Muhammad Aman Ali**
 🎓 Roll No: 195
+
 📘 BS Artificial Intelligence – Semester 2, Section C
+
 👨‍🏫 Submitted to: Sir Shahzaib
+
 📅 Date: June 15, 2025
 
 ---
 
-## 📝 License
-
-This project is created for academic purposes only.
-Shared under the [MIT License](https://opensource.org/licenses/MIT).
-
-```
 
 ---
