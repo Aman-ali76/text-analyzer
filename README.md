@@ -18,7 +18,7 @@ A simple and interactive Streamlit web app that allows users to upload a `.txt` 
 
 ## 🚀 Live App
 
-👉 [Click here to view the deployed app]((https://text-file-analyzer.streamlit.app/))  
+👉 [Click here to view the deployed app](https://text-file-analyzer.streamlit.app/)  
 
 ---
 
