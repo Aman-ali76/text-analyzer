@@ -1,26 +1,24 @@
 # 📄 Text Analyzer
 
-A simple and interactive Streamlit web app that allows users to upload a `.txt` file, analyze its contents, and download a summary report.
+A simple and interactive Streamlit web app that allows users to upload a `.txt` file, view its contents, analyze the total number of lines, words, and characters, and download a summary report.
 
 ---
 
 ## ✨ Features
 
-- Upload `.txt` files using a clean web UI.
+- Upload `.txt` files using a user-friendly interface.
 - Display the full content of the uploaded file.
-- Automatically calculate:
-  - 📌 Total number of lines  
-  - 📌 Total number of words  
-  - 📌 Total number of characters
-- Download the summary report as `summary.txt`.
+- Automatically count:
+  - ✅ Total number of lines
+  - ✅ Total number of words
+  - ✅ Total number of characters (including spaces and newlines)
+- Download the results as a `summary.txt` file.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live App
 
-👉 [Click here to open the live app](https://your-username-text-file-analyzer.streamlit.app)
-
-*(Replace the link with your actual Streamlit Cloud link after deployment)*
+👉 [Click here to view the deployed app](https://your-username-text-file-analyzer.streamlit.app)  
 
 ---
 
@@ -31,3 +29,60 @@ A simple and interactive Streamlit web app that allows users to upload a `.txt` 
 ```bash
 git clone https://github.com/your-username/text-file-analyzer.git
 cd text-file-analyzer
+````
+
+### 2. Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the App
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+text-file-analyzer/
+├── app.py              # Streamlit application file
+├── requirements.txt    # List of required Python libraries
+└── README.md           # Project documentation file
+```
+
+---
+
+## 📄 Example Output (summary.txt)
+
+```
+Lines: 4
+Words: 27
+Characters: 155
+```
+
+*(Values shown above are just an example. Your app generates these automatically based on the uploaded file.)*
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Aman Ali**
+🎓 Roll No: 195
+📘 BS Artificial Intelligence – Semester 2, Section C
+👨‍🏫 Submitted to: Sir Shahzaib
+📅 Date: June 15, 2025
+
+---
+
+## 📝 License
+
+This project is created for academic purposes only.
+Shared under the [MIT License](https://opensource.org/licenses/MIT).
+
+```
+
+---
