@@ -71,15 +71,7 @@ Characters: 155
 ## 👨‍💻 Author
 
 **Muhammad Aman Ali**
-🎓 Roll No: 195
-
-📘 BS Artificial Intelligence – Semester 2, Section C
-
-👨‍🏫 Submitted to: Sir Shahzaib
 
 📅 Date: June 15, 2025
-
----
-
 
 ---
